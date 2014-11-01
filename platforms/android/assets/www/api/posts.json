@@ -1,0 +1,58 @@
+[
+  {
+    "uid": 1,
+    "text" : "Have you heard about the Web Components revolution?",
+    "username" : "Eric",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg",
+    "favorite": false
+  },
+  {
+    "uid": 2,
+    "text" : "Loving this Polymer thing.",
+    "username" : "Rob",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/whale/128.jpg",
+    "favorite": false
+  },
+    {
+    "uid": 3,
+    "text" : "So last year...",
+    "username" : "Dimitri",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/dakshbhagya/128.jpg",
+    "favorite": false
+  },
+  {
+    "uid": 4,
+    "text" : "Pretty sure I came up with that first.",
+    "username" : "Ada",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+    "favorite": false
+  },
+  {
+    "uid": 5,
+    "text" : "Yo, I heard you like components, so I put a component in your component.",
+    "username" : "Grace",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/mlane/128.jpg",
+    "favorite": false
+  },
+  {
+    "uid": 6,
+    "text" : "Centralize, centrailize.",
+    "username" : "John",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/leemunroe/128.jpg",
+    "favorite": false
+  },
+  {
+    "uid": 7,
+    "text" : "Has anyone seen my cat?",
+    "username" : "Zelda",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/ManikRathee/128.jpg",
+    "favorite": false
+  },
+  {
+    "uid": 8,
+    "text" : "Decentralize!",
+    "username" : "Norbert",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/teleject/128.jpg",
+    "favorite": false
+  }
+]
